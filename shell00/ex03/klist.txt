@@ -1,0 +1,5 @@
+Credentials cache: API:1D897383-BB32-4E9B-9B8D-FF8F35B27FDF
+        Principal: fduman@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Dec  6 01:15:34 2021  Dec  6 11:15:34 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
